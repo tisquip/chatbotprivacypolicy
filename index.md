@@ -5,12 +5,12 @@ At Tisquip (Ronnie) Chat bot, one of our main priorities is the privacy of those
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to email us on tisquip6@gmail.com
 
-This Privacy Policy applies only to our chat bot online activities and is valid for visitors to our chat bot with regards to the information that they shared and/or collect in Tisquip (Ronnie) Chat bot. This policy is not applicable to any information collected offline or via channels other than the chat bot. Our Privacy Policy was created with the help of the [TermsFeed Free Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+This Privacy Policy applies only to our chat bots online activities and is valid for visitors to any of our chat bots with regards to the information that they shared and/or collect in via the chat bots. This policy is not applicable to any information collected offline or via channels other than the chat bots. Our Privacy Policy was created with the help of the [TermsFeed Free Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
 
 Consent
 -------
 
-By using our chat bot, you hereby consent to our Privacy Policy and agree to its terms.
+By using any of our chat bots (run by us), you hereby consent to our Privacy Policy and agree to its terms.
 
 Information we collect
 ----------------------
@@ -19,26 +19,19 @@ The personal information that you are asked to provide, and the reasons why you 
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-When you engage with our chat bot, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number so that we can fulfill any purchases that you would have made.
+When you engage with any of our chat bots, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number so that we can fulfill any purchases that you would have made.
 
 How we use your information
 ---------------------------
 
 We use the information we collect to:
 
-*   Provide, operate, and maintain our chat bot
-*   Improve, personalize, and expand our chat bot
-*   Understand and analyze how you use our chat bot
+*   Provide, operate, and maintain our chat bots
+*   Improve, personalize, and expand our chat bots
+*   Understand and analyze how you use our chat bots
 *   Develop new products, services, features, and functionality
 *   We do not sell or share your information with any third parties
 
-Log Files
----------
-
-Advertising Partners Privacy Policies
--------------------------------------
-
-We do not offer any third party advertising
 
 CCPA Privacy Rights (Do Not Sell My Personal Information)
 ---------------------------------------------------------
@@ -77,4 +70,4 @@ Children's Information
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their activity.
 
-Tisquip (Ronnie) Chat bot does not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information on our chat bot, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Our Chat bots do not knowingly collect any Personal Identifiable Information from children under the age of 18. If you think that your child provided this kind of information on our chat bots, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.

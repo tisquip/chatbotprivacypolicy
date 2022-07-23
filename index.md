@@ -1,7 +1,7 @@
-Privacy Policy for Tisquip (Ronnie) Chat Bot
+Privacy Policy for Tisquip (Ronnie) Chat Bots
 ============================================
 
-At Tisquip (Ronnie) Chat bot, one of our main priorities is the privacy of those that interact with our chat bot. This Privacy Policy document contains types of information that is collected and recorded by Tisquip (Ronnie) Chat bot and how we use it.
+At Tisquip (Ronnie) Chat bots, one of our main priorities is the privacy of those that interact with our chat bots. This Privacy Policy document contains types of information that is collected and recorded by our Chat bots and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to email us on tisquip6@gmail.com
 
